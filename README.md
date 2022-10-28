@@ -17,8 +17,9 @@ HTML portfolio with server and routes that render HTML pages
 
 => Push your code to GitHub.
 
-Note: 1. No third-party dependencies
-          2. You don’t need to style your HTML pages
+Note: 
+1. No third-party dependencies
+2. You don’t need to style your HTML pages
  
 
 Submission Mode: Accessible GitHub Link
