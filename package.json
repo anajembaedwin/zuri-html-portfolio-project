@@ -1,0 +1,21 @@
+{
+  "name": "zuri-html-portfolio-project",
+  "version": "1.0.0",
+  "description": "HTML portfolio with server and routes that render HTML pages",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anajembaedwin/zuri-html-portfolio-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anajembaedwin/zuri-html-portfolio-project/issues"
+  },
+  "homepage": "https://github.com/anajembaedwin/zuri-html-portfolio-project#readme"
+}
